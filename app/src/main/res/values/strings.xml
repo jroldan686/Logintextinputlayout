@@ -1,8 +1,7 @@
 <resources>
-    <string name="app_name">LoginRelative_Activity</string>
+    <string name="app_name">Logintextinputlayout_Activity</string>
     <string name="txvUser">User</string>
     <string name="txvPassword">Password</string>
-    <string name="ckbRemember">Remeber</string>
-    <string name="btnCancel">Cancel</string>
-    <string name="btnOk">OK</string>
+    <string name="ckbRemember">Remember</string>
+    <string name="btnLogin" translatable="false">Login</string>
 </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Logintextinputlayout_Activity</string>
+    <string name="ckbRemember">Recordar</string>
+    <string name="txvPassword">Contraseña</string>
+    <string name="txvUser">Usuario</string>
+</resources>

@@ -1,4 +1,4 @@
-package deint.jroldan.loginrelative;
+package deint.jroldan.logintextinputlayout;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

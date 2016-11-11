@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="data_empty">Debe introducir un valor en el campo</string>
-    <string name="password_digit">Debe contener al menos un dígito</string>
-    <string name="password_case">Debe contener al menos un carácter en mayúscula/minúscula</string>
-    <string name="password_length">Longitud mínima de 8 caracteres</string>
+    <string name="data_empty">You must enter a value in the field</string>
+    <string name="password_digit">Must contain at least one digit</string>
+    <string name="password_case">It must contain at least one character in upper/lower case</string>
+    <string name="password_length">Minimum length of 8 characters</string>
+    <string name="messagePassword">Enter your password</string>
+    <string name="messageUser">Introduce your user name</string>
 </resources>

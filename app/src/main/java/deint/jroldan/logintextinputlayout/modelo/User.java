@@ -1,4 +1,4 @@
-package deint.jroldan.loginrelative.modelo;
+package deint.jroldan.logintextinputlayout.modelo;
 
 /**
  * Created by usuario on 6/10/16.

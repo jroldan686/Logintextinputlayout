@@ -1,9 +1,9 @@
-package deint.jroldan.loginrelative;
+package deint.jroldan.logintextinputlayout;
 
 import android.content.Context;
 import android.text.TextUtils;
 
-import deint.jroldan.loginrelative.modelo.User;
+import deint.jroldan.logintextinputlayout.modelo.User;
 
 /**
  * Created by usuario on 6/10/16.
